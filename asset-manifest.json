@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ClassEditor/static/css/main.c70335c6.chunk.css",
+    "main.js": "/ClassEditor/static/js/main.8ab38a34.chunk.js",
+    "main.js.map": "/ClassEditor/static/js/main.8ab38a34.chunk.js.map",
+    "runtime-main.js": "/ClassEditor/static/js/runtime-main.4eda0706.js",
+    "runtime-main.js.map": "/ClassEditor/static/js/runtime-main.4eda0706.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/ClassEditor/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.285f0e43.chunk.js": "/ClassEditor/static/js/2.285f0e43.chunk.js",
+    "static/js/2.285f0e43.chunk.js.map": "/ClassEditor/static/js/2.285f0e43.chunk.js.map",
+    "index.html": "/ClassEditor/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/ClassEditor/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.c70335c6.chunk.css.map": "/ClassEditor/static/css/main.c70335c6.chunk.css.map",
+    "static/js/2.285f0e43.chunk.js.LICENSE.txt": "/ClassEditor/static/js/2.285f0e43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eda0706.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.285f0e43.chunk.js",
+    "static/css/main.c70335c6.chunk.css",
+    "static/js/main.8ab38a34.chunk.js"
+  ]
+}
